@@ -9,14 +9,200 @@
     "url": "https://aviationweather.gov/data/cache/airsigmets.cache.xml.gz"
   },
   "resource_type": "airsigmets",
-  "count": 18,
+  "count": 16,
   "airsigmets": [
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
-        "max_ft_msl": "43000"
+        "max_ft_msl": "42000"
+      },
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-109.8530",
+            "latitude": "35.3760"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-105.4980",
+            "latitude": "31.8180"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-108.1530",
+            "latitude": "31.8090"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-110.9200",
+            "latitude": "31.2650"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-112.6210",
+            "latitude": "32.2000"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-109.8530",
+            "latitude": "35.3760"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "30000"
+      },
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-111.7270",
+            "latitude": "48.9200"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-108.7040",
+            "latitude": "47.3010"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-110.0600",
+            "latitude": "45.8010"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-113.4680",
+            "latitude": "48.6780"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-111.7270",
+            "latitude": "48.9200"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "37000"
+      },
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-112.2220",
+            "latitude": "35.7970"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-110.8000",
+            "latitude": "34.0630"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-111.6220",
+            "latitude": "33.4290"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-113.3300",
+            "latitude": "33.9920"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-112.2220",
+            "latitude": "35.7970"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "41000"
+      },
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-106.2700",
+            "latitude": "37.7050"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-105.2370",
+            "latitude": "37.1560"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-105.5790",
+            "latitude": "36.8850"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-106.4530",
+            "latitude": "37.3480"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-106.2700",
+            "latitude": "37.7050"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "23000"
       },
       "movement_dir_degrees": "250",
       "movement_spd_kt": "15",
@@ -28,93 +214,40 @@
       "area": [
         {
           "point": {
-            "longitude": "-83.9300",
-            "latitude": "32.9250"
+            "longitude": "-72.7900",
+            "latitude": "44.2850"
           }
         },
         {
           "point": {
-            "longitude": "-76.8900",
-            "latitude": "32.3460"
+            "longitude": "-72.5700",
+            "latitude": "43.5550"
           }
         },
         {
           "point": {
-            "longitude": "-77.1760",
-            "latitude": "30.3860"
+            "longitude": "-73.6260",
+            "latitude": "43.0570"
           }
         },
         {
           "point": {
-            "longitude": "-84.7820",
-            "latitude": "30.2040"
+            "longitude": "-73.8470",
+            "latitude": "43.8310"
           }
         },
         {
           "point": {
-            "longitude": "-83.9300",
-            "latitude": "32.9250"
+            "longitude": "-72.7900",
+            "latitude": "44.2850"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "45000"
-      },
-      "movement_dir_degrees": "230",
-      "movement_spd_kt": "20",
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-84.4980",
-            "latitude": "42.2040"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-81.8500",
-            "latitude": "41.4200"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-82.0300",
-            "latitude": "38.7500"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-87.5770",
-            "latitude": "38.8750"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-87.2770",
-            "latitude": "41.7860"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-84.4980",
-            "latitude": "42.2040"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
         "max_ft_msl": "45000"
       },
@@ -128,46 +261,46 @@
       "area": [
         {
           "point": {
-            "longitude": "-87.3250",
-            "latitude": "41.0240"
+            "longitude": "-87.0700",
+            "latitude": "40.5600"
           }
         },
         {
           "point": {
-            "longitude": "-87.5770",
-            "latitude": "38.8750"
+            "longitude": "-87.5980",
+            "latitude": "38.2370"
           }
         },
         {
           "point": {
-            "longitude": "-93.3300",
-            "latitude": "37.3600"
+            "longitude": "-95.2000",
+            "latitude": "37.1500"
           }
         },
         {
           "point": {
-            "longitude": "-96.8060",
-            "latitude": "37.4930"
+            "longitude": "-96.5230",
+            "latitude": "37.7450"
           }
         },
         {
           "point": {
-            "longitude": "-92.7560",
-            "latitude": "39.8330"
+            "longitude": "-91.6810",
+            "latitude": "39.9770"
           }
         },
         {
           "point": {
-            "longitude": "-87.3250",
-            "latitude": "41.0240"
+            "longitude": "-87.0700",
+            "latitude": "40.5600"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
         "max_ft_msl": "45000"
       },
@@ -181,48 +314,42 @@
       "area": [
         {
           "point": {
-            "longitude": "-89.4820",
-            "latitude": "31.2980"
+            "longitude": "-91.8480",
+            "latitude": "30.9490"
           }
         },
         {
           "point": {
-            "longitude": "-88.3600",
-            "latitude": "30.7300"
+            "longitude": "-89.8450",
+            "latitude": "30.9440"
           }
         },
         {
           "point": {
-            "longitude": "-91.0380",
-            "latitude": "28.3510"
+            "longitude": "-90.1000",
+            "latitude": "28.3450"
           }
         },
         {
           "point": {
-            "longitude": "-94.3920",
-            "latitude": "28.0450"
+            "longitude": "-93.1100",
+            "latitude": "28.3070"
           }
         },
         {
           "point": {
-            "longitude": "-94.4050",
-            "latitude": "29.1310"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-89.4820",
-            "latitude": "31.2980"
+            "longitude": "-91.8480",
+            "latitude": "30.9490"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
-        "max_ft_msl": "30000"
+        "max_ft_msl": "33000"
       },
       "movement_dir_degrees": "320",
       "movement_spd_kt": "25",
@@ -234,44 +361,183 @@
       "area": [
         {
           "point": {
-            "longitude": "-103.6300",
-            "latitude": "48.6830"
+            "longitude": "-100.3920",
+            "latitude": "48.8470"
           }
         },
         {
           "point": {
-            "longitude": "-95.9350",
-            "latitude": "47.8310"
+            "longitude": "-102.7700",
+            "latitude": "46.8600"
           }
         },
         {
           "point": {
-            "longitude": "-99.5170",
-            "latitude": "43.9280"
+            "longitude": "-105.9500",
+            "latitude": "46.3800"
           }
         },
         {
           "point": {
-            "longitude": "-103.9170",
-            "latitude": "45.5120"
+            "longitude": "-107.7030",
+            "latitude": "48.9200"
           }
         },
         {
           "point": {
-            "longitude": "-103.6300",
-            "latitude": "48.6830"
+            "longitude": "-100.3920",
+            "latitude": "48.8470"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
         "max_ft_msl": "45000"
       },
-      "movement_dir_degrees": "200",
+      "movement_dir_degrees": "230",
+      "movement_spd_kt": "20",
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-83.7840",
+            "latitude": "42.0820"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-82.0300",
+            "latitude": "38.7500"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-87.5140",
+            "latitude": "38.3950"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-87.0700",
+            "latitude": "40.5600"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-83.7840",
+            "latitude": "42.0820"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "37000"
+      },
+      "movement_dir_degrees": "220",
+      "movement_spd_kt": "20",
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-85.8230",
+            "latitude": "45.1340"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-84.0430",
+            "latitude": "44.6410"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-85.5000",
+            "latitude": "43.1220"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-87.4420",
+            "latitude": "42.8630"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-85.8230",
+            "latitude": "45.1340"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "45000"
+      },
+      "hazard": {
+        "type": "CONVECTIVE",
+        "severity": "SEV"
+      },
+      "airsigmet_type": "SIGMET",
+      "area": [
+        {
+          "point": {
+            "longitude": "-80.5730",
+            "latitude": "28.8290"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-79.2240",
+            "latitude": "26.9970"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-80.4750",
+            "latitude": "25.7350"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-81.4090",
+            "latitude": "26.5300"
+          }
+        },
+        {
+          "point": {
+            "longitude": "-80.5730",
+            "latitude": "28.8290"
+          }
+        }
+      ]
+    },
+    {
+      "raw_text": null,
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
+      "altitude": {
+        "max_ft_msl": "33000"
+      },
+      "movement_dir_degrees": "320",
       "movement_spd_kt": "25",
       "hazard": {
         "type": "CONVECTIVE",
@@ -281,236 +547,46 @@
       "area": [
         {
           "point": {
-            "longitude": "-85.8660",
-            "latitude": "34.3670"
+            "longitude": "-96.5670",
+            "latitude": "47.2140"
           }
         },
         {
           "point": {
-            "longitude": "-85.2100",
-            "latitude": "33.0500"
+            "longitude": "-91.4700",
+            "latitude": "43.9100"
           }
         },
         {
           "point": {
-            "longitude": "-86.4960",
-            "latitude": "30.7650"
+            "longitude": "-91.1940",
+            "latitude": "42.7550"
           }
         },
         {
           "point": {
-            "longitude": "-88.3600",
-            "latitude": "30.7300"
+            "longitude": "-94.1180",
+            "latitude": "42.3030"
           }
         },
         {
           "point": {
-            "longitude": "-88.9070",
-            "latitude": "34.2510"
+            "longitude": "-101.0150",
+            "latitude": "47.0050"
           }
         },
         {
           "point": {
-            "longitude": "-85.8660",
-            "latitude": "34.3670"
+            "longitude": "-96.5670",
+            "latitude": "47.2140"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "32000"
-      },
-      "movement_dir_degrees": "220",
-      "movement_spd_kt": "20",
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-69.1330",
-            "latitude": "47.4700"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-67.9030",
-            "latitude": "47.0770"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-67.8300",
-            "latitude": "46.0400"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-70.9640",
-            "latitude": "44.0440"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-71.2370",
-            "latitude": "45.1520"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-69.1330",
-            "latitude": "47.4700"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "45000"
-      },
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-80.8400",
-            "latitude": "29.5350"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-79.7410",
-            "latitude": "25.7990"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-80.8200",
-            "latitude": "25.3290"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-82.6800",
-            "latitude": "28.7450"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-80.8400",
-            "latitude": "29.5350"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "28000"
-      },
-      "movement_dir_degrees": "220",
-      "movement_spd_kt": "20",
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-73.0220",
-            "latitude": "44.9910"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-73.5850",
-            "latitude": "42.8150"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-75.0550",
-            "latitude": "43.1540"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-74.7200",
-            "latitude": "44.9100"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-73.0220",
-            "latitude": "44.9910"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "45000"
-      },
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-83.6290",
-            "latitude": "29.5990"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-84.2400",
-            "latitude": "27.3270"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-86.6800",
-            "latitude": "27.3360"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-88.3600",
-            "latitude": "29.2300"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-83.6290",
-            "latitude": "29.5990"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
         "max_ft_msl": "37000"
       },
@@ -524,95 +600,42 @@
       "area": [
         {
           "point": {
-            "longitude": "-96.8500",
-            "latitude": "46.7500"
+            "longitude": "-86.6290",
+            "latitude": "44.3450"
           }
         },
         {
           "point": {
-            "longitude": "-89.2670",
-            "latitude": "44.2350"
+            "longitude": "-87.7280",
+            "latitude": "42.2870"
           }
         },
         {
           "point": {
-            "longitude": "-89.3320",
-            "latitude": "42.7950"
+            "longitude": "-90.2950",
+            "latitude": "42.2720"
           }
         },
         {
           "point": {
-            "longitude": "-96.2610",
-            "latitude": "42.7280"
+            "longitude": "-88.9090",
+            "latitude": "43.8010"
           }
         },
         {
           "point": {
-            "longitude": "-97.8600",
-            "latitude": "45.7750"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-96.8500",
-            "latitude": "46.7500"
+            "longitude": "-86.6290",
+            "latitude": "44.3450"
           }
         }
       ]
     },
     {
       "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
+      "valid_time_from": "2026-06-18T00:55:00.000Z",
+      "valid_time_to": "2026-06-18T02:55:00.000Z",
       "altitude": {
-        "max_ft_msl": "34000"
-      },
-      "movement_dir_degrees": "260",
-      "movement_spd_kt": "35",
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-87.1880",
-            "latitude": "45.2610"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-86.2060",
-            "latitude": "44.8610"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-87.9000",
-            "latitude": "42.4830"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-89.3240",
-            "latitude": "42.7770"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-87.1880",
-            "latitude": "45.2610"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "45000"
+        "max_ft_msl": "40000"
       },
       "hazard": {
         "type": "CONVECTIVE",
@@ -622,179 +645,32 @@
       "area": [
         {
           "point": {
-            "longitude": "-112.1720",
-            "latitude": "33.1230"
+            "longitude": "-85.4510",
+            "latitude": "29.6150"
           }
         },
         {
           "point": {
-            "longitude": "-108.1490",
-            "latitude": "32.0860"
+            "longitude": "-83.2700",
+            "latitude": "29.1350"
           }
         },
         {
           "point": {
-            "longitude": "-108.5680",
-            "latitude": "31.4510"
+            "longitude": "-84.4070",
+            "latitude": "27.2630"
           }
         },
         {
           "point": {
-            "longitude": "-110.9200",
-            "latitude": "31.2650"
+            "longitude": "-86.6330",
+            "latitude": "27.8540"
           }
         },
         {
           "point": {
-            "longitude": "-113.0000",
-            "latitude": "32.6000"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-112.1720",
-            "latitude": "33.1230"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "32000"
-      },
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-103.6300",
-            "latitude": "49.0150"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-103.9170",
-            "latitude": "45.5120"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-109.9430",
-            "latitude": "45.4210"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-113.0150",
-            "latitude": "48.5240"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-103.6300",
-            "latitude": "49.0150"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "45000"
-      },
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-112.7820",
-            "latitude": "35.8720"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-106.6780",
-            "latitude": "33.2790"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-106.2800",
-            "latitude": "31.8200"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-113.3300",
-            "latitude": "33.9920"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-113.9760",
-            "latitude": "35.2640"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-112.7820",
-            "latitude": "35.8720"
-          }
-        }
-      ]
-    },
-    {
-      "raw_text": null,
-      "valid_time_from": "2026-06-17T22:55:00.000Z",
-      "valid_time_to": "2026-06-18T00:55:00.000Z",
-      "altitude": {
-        "max_ft_msl": "41000"
-      },
-      "hazard": {
-        "type": "CONVECTIVE",
-        "severity": "SEV"
-      },
-      "airsigmet_type": "SIGMET",
-      "area": [
-        {
-          "point": {
-            "longitude": "-120.3120",
-            "latitude": "39.5280"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-119.2530",
-            "latitude": "37.9580"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-119.8200",
-            "latitude": "37.5450"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-120.4190",
-            "latitude": "38.9370"
-          }
-        },
-        {
-          "point": {
-            "longitude": "-120.3120",
-            "latitude": "39.5280"
+            "longitude": "-85.4510",
+            "latitude": "29.6150"
           }
         }
       ]
